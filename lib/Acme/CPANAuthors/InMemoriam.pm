@@ -26,6 +26,7 @@ use Acme::CPANAuthors::Register (
     'JGOFF'     => 'Jeff Goff',
     'KENTNL'    => 'Kent Fredric',
     'KHAMPTON'  => 'Kip Hampton',
+    'MSTROUT'   => 'Matt Trout',
     'NI-S'      => 'Nick Ing-Simmons',
     'NOBULL'    => 'Brian McCauley',
     'RKOBES'    => 'Randy Kobes',
@@ -85,6 +86,7 @@ celebrate their time with us.
   JGOFF         Jeff Goff           d.2020
   KHAMPTON      Kip Hampton         d.2017
   KENTNL        Kent Fredric        d.2021
+  MSTROUT       Matt Trout          d.2025
   NI-S          Nick Ing-Simmons    d.2006
   NOBULL        Brian McCauley      d.2015
   RKOBES        Randy Kobes         d.2010
