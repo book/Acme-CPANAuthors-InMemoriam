@@ -15,6 +15,7 @@ use Acme::CPANAuthors::Register (
     'ANDREWF'   => 'Andrew Ford',
     'AVENJ'     => 'Jon Portnoy',
     'CKARG'     => 'Christian Karg',
+    'DHA'       => 'David Adler',
     'ENCRYPTIO' => 'Chris Kastorff',
     'GARY'      => 'Gary Howland',
     'GARYAJ'    => 'Gary Ashton-Jones',
@@ -71,6 +72,7 @@ celebrate their time with us.
   ANDREWF       Andrew Ford         d.2014
   AVENJ         Jon Portnoy         d.2016
   CKARG         Christian Karg      d.2013
+  DHA           David Adler         d.2021
   ENCRYPTIO     Chris Kastorff      d.2017
   GARY          Gary Howland        d.2002
   GARYAJ        Gary Ashton-Jones   d.2016
