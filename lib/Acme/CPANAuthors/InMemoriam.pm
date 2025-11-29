@@ -11,6 +11,7 @@ use Acme::CPANAuthors::Register (
 
     # Our fallen heroes, may they never be forgotten
 
+    'ABELTJE'   => 'Abe Timmerman',
     'AMORETTE'  => 'Hojung Yoon',
     'ANDREWF'   => 'Andrew Ford',
     'AVENJ'     => 'Jon Portnoy',
@@ -68,6 +69,7 @@ celebrate their time with us.
 
 =head1 OUR HEROES
 
+  ABELTJE       Abe Timmerman       d.2024
   AMORETTE      Hojung Yoon         d.2013
   ANDREWF       Andrew Ford         d.2014
   AVENJ         Jon Portnoy         d.2016
