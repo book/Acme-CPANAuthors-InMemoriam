@@ -21,6 +21,7 @@ use Acme::CPANAuthors::Register (
     'GMCCAR'    => 'Greg McCarroll',
     'IVORW'     => 'Ivor Williams',
     'JAITKEN'   => 'James Aitken',
+    'JGOFF'     => 'Jeff Goff',
     'KHAMPTON'  => 'Kip Hampton',
     'NI-S'      => 'Nick Ing-Simmons',
     'NOBULL'    => 'Brian McCauley',
@@ -74,6 +75,7 @@ celebrate their time with us.
   GMCCAR        Greg McCarroll      d.2013
   IVORW         Ivor Williams       d.2009
   JAITKEN       James Aitken        d.2014
+  JGOFF         Jeff Goff           d.2020
   KHAMPTON      Kip Hampton         d.2017
   NI-S          Nick Ing-Simmons    d.2006
   NOBULL        Brian McCauley      d.2015
