@@ -28,6 +28,7 @@ use Acme::CPANAuthors::Register (
     'NOBULL'    => 'Brian McCauley',
     'RKOBES'    => 'Randy Kobes',
     'SCHOP'     => 'Ariel Brosh',
+    'SPIDB'     => 'Raun Boardman',
     'SPOON'     => 'Iain Truskett',
     'SUGMAK'    => 'Makoto Sugiyama',
     'TADMC'     => 'Tad McClellan',
@@ -83,6 +84,7 @@ celebrate their time with us.
   NOBULL        Brian McCauley      d.2015
   RKOBES        Randy Kobes         d.2010
   SCHOP         Ariel Brosh         d.2003
+  SPIDB         Raun Boardman       d.2021
   SPOON         Iain Truskett       d.2003
   SUGMAK        Makoto Sugiyama     d.2010
   TADMC         Tad McClellan       d.2012
