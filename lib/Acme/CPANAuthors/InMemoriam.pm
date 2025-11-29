@@ -35,6 +35,7 @@ use Acme::CPANAuthors::Register (
     'SUGMAK'    => 'Makoto Sugiyama',
     'TADMC'     => 'Tad McClellan',
     'VSARKISS'  => 'Vahe Sarkissian'
+    'ZEFRAM'    => 'Andrew Main',
 
 );
 
@@ -93,6 +94,7 @@ celebrate their time with us.
   SUGMAK        Makoto Sugiyama     d.2010
   TADMC         Tad McClellan       d.2012
   VSARKISS      Vahe Sarkissian     d.2008
+  ZEFRAM        Andrew Main         d.2025
 
 =head1 MAINTENANCE
 
